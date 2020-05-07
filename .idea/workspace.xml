@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2f24c27-be02-45ff-b220-08b2d75c3356" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XBdDPoBCW0PNpptUOjCyIhDiUF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2f24c27-be02-45ff-b220-08b2d75c3356" name="Default Changelist" comment="" />
+      <created>1580523301452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580523301452</updated>
+      <workItem from="1580523302909" duration="2400000" />
+      <workItem from="1580785658783" duration="15000" />
+      <workItem from="1584246719745" duration="81000" />
+      <workItem from="1584250461755" duration="41000" />
+      <workItem from="1588751944008" duration="1698000" />
+      <workItem from="1588813335201" duration="1538000" />
+      <workItem from="1588838378935" duration="703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Project_Structure" timestamp="1580523707615">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1580523707615" />
+    <state x="304" y="187" width="1071" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580523911504">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" width="1071" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580523911504" />
+    <state x="423" y="127" key="CommitChangelistDialog2" timestamp="1588850326479">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="423" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1588850326479" />
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom" timestamp="1588764648104">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588764648104" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center" timestamp="1588764648104">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588764648104" />
+    <state width="1638" height="363" key="GridCell.Tab.0.left" timestamp="1588764648103">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588764648103" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right" timestamp="1588764648104">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588764648104" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1588764648106">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588764648106" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1588764648105">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588764648105" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1588764648105">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588764648105" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1588764648106">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588764648106" />
+    <state width="1638" height="363" key="GridCell.Tab.2.bottom" timestamp="1588764648108">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588764648108" />
+    <state width="1638" height="363" key="GridCell.Tab.2.center" timestamp="1588764648107">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588764648107" />
+    <state width="1638" height="363" key="GridCell.Tab.2.left" timestamp="1588764648106">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588764648106" />
+    <state width="1638" height="363" key="GridCell.Tab.2.right" timestamp="1588764648107">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588764648107" />
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1588813343357">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588813343357" />
+    <state x="217" y="222" key="new project wizard" timestamp="1580523698007">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="217" y="222" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1580523698007" />
+  </component>
+</project>
